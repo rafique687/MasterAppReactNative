@@ -66,7 +66,7 @@ export default function RegisterScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={[styles.title, { color: "#b42ea9c5" }]}>Install APP</Text>
+      <Text style={[styles.title, { color: "#b42ea9c5" }]}>Admin Login</Text>
 
       <TextInput
         placeholder="APP NAME"
